@@ -2,7 +2,7 @@
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
 ## ❤️Tutorials and FAQ(updating)↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
+### 💎💎💎💎💎💎 jimmy furst says If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
 #### [Tutorials->How to open and connect adb](./md/tutorials.md)
 #### [FAQ](./md/tutorials.md)
 
